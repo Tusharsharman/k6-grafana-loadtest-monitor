@@ -27,6 +27,7 @@ This project demonstrates how to perform **load testing** using [K6](https://k6.
 
 ## 📁 Folder Structure
 k6-grafana-loadtest-monitor/
+
 ├── docker-compose.yml # Sets up InfluxDB & Grafana
 
 ├── test.js # K6 test script
