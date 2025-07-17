@@ -43,3 +43,6 @@ Streaming load test metrics to InfluxDB
 Creating dynamic dashboards in Grafana
 Running & linking containers via Docker Compose
 Building a full DevOps monitoring pipeline from scratch
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 17, 2025, 05_56_19 PM" src="https://github.com/user-attachments/assets/c92fc660-dc5f-4b88-94bc-ca22de3e46ae" />
+
