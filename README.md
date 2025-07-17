@@ -35,3 +35,11 @@ k6-grafana-loadtest-monitor/
 ├── README.md # This documentation
 
 └── screenshots/ # (Optional) Dashboard images
+
+
+What I Learned
+Writing performance test scripts with K6
+Streaming load test metrics to InfluxDB
+Creating dynamic dashboards in Grafana
+Running & linking containers via Docker Compose
+Building a full DevOps monitoring pipeline from scratch
